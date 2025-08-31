@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 i'm a BTech undergrad from Birla Institute of technology mesra <br>I'm currently learning and building stuff in the field of ML and DL
 
 
-## 🌐 Socials:
+##  Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shubzK17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamworks17704@gmail.com) 
 
 # 💻 Tech Stack:
