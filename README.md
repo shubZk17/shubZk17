@@ -14,11 +14,11 @@ I am continuously improving my problem-solving skills, mathematical foundations,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:shubhamworks17704@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <a href="https://twitter.com/shubzk17" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
   </a>
 </p>
@@ -28,7 +28,7 @@ I am continuously improving my problem-solving skills, mathematical foundations,
 ## 💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
+  <a href="https://leetcode.com/shubzK17" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
   </a>
   &nbsp;&nbsp;
@@ -36,11 +36,11 @@ I am continuously improving my problem-solving skills, mathematical foundations,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/YOUR_USERNAME" target="_blank">
+  <a href="https://codeforces.com/profile/shubzk17" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://cses.fi/user/YOUR_USERNAME" target="_blank">
+  <a href="https://cses.fi/user/shubzk17" target="_blank">
     <img src="https://cses.fi/logo.png" width="40" />
   </a>
 </p>
