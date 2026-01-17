@@ -1,9 +1,9 @@
 # Hi, I'm Shubham Kumar 👋
 
-I am a B.Tech undergraduate with a strong interest in **Data Science, Machine Learning, and Software Engineering**.  
-I enjoy solving algorithmic problems, building data-driven systems, and working on research-oriented ML projects with real-world impact.
+I am a B.Tech undergraduate with a strong interest in **Data Science and Machine Learning**.  
+Open for any reserch worK.
 
-\
+
 
 ---
 
