@@ -18,31 +18,7 @@ Open for any reserch worK.
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/shubzk17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
-  </a>
-</p>
 
----
 
-##  Coding Profiles
-
-<p align="left">
-  <a href="https://leetcode.com/shubzK17" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/shubzk17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/shubzk17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40" />
-  </a>
-  &nbsp;&nbsp;
-
-</p>
-
----
 
 
