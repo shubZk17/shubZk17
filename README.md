@@ -1,33 +1,38 @@
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">Aspiring Software Engineer | ML & Data Science Enthusiast | Chemical Engineering Undergraduate</h3>
+<h1 align="center">Shubham Kumar</h1>
+<h3 align="center">Machine Learning Engineer</h3>
 
 ---
 
-### 🚀 About Me
-- 🎓 B.Tech in Chemical Engineering (India)
-- 💡 Passionate about Machine Learning, AI, and Backend Development
-- 🔍 Currently building end-to-end ML systems with deployment & explainability
-- 📈 Preparing for Software Engineering Internships (Summer 2026)
-- ⚡ Strong focus on scalable systems + production-ready ML
+### About Me
+
+I am a Chemical Engineering undergraduate with a strong academic and practical focus on Machine Learning, Data Science, and scalable Software Systems. My work centers around building end-to-end ML pipelines that move from exploratory data analysis to model development, explainability, and deployment.
+
+I am particularly interested in:
+- Interpretable Machine Learning and model explainability  
+- Robust ML system design for real-world applications  
+- Mathematical reasoning in modern AI systems  
+- Applied research in Natural Language Processing  
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:** Python, C++, SQL  
-**ML & AI:** Scikit-learn, XGBoost, PyTorch, SHAP, LIME  
-**Backend:** FastAPI, Streamlit  
-**Data:** Pandas, NumPy, Power BI  
-**Tools:** Git, Docker, Linux
+### Latest Work
+
+- **End-to-End Banking Fraud Detection System**  
+  Developed a production-oriented fraud detection pipeline using feature engineering, XGBoost modeling, SHAP-based explainability, and API deployment.
+
+
+- **Applied ML Research Projects**  
+  Implemented and analyzed advanced ML and DL with a focus on generalization, evaluation rigor, and reproducibility.
 
 ---
 
-### 📌 Featured Work
-- 🔥 End-to-End Banking Fraud Detection (Model + SHAP + FastAPI + Dashboard)
-- 📊 Recommender System (Content + Collaborative Filtering)
-- 📈 Exploratory Data Analysis & Feature Engineering Projects
+### Skills
+
+- Machine Learning Research & Applied AI  
+- Model Interpretability (SHAP, LIME)  
+- Data-Centric System Design  
+- Backend Deployment for ML Systems  
 
 ---
 
-### 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/your-link
-- 📧 Email: your-email@gmail.com
+Currently working on research in Natural Language Processing.
